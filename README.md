@@ -1,4 +1,4 @@
-# tourify_sample_project
+# travel software project
 
 A new Flutter project.
 
